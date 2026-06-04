@@ -1,8 +1,8 @@
 ﻿# Invento
 
-Invento adalah aplikasi Inventory dan Point of Sale (POS) berbasis web untuk toko kecil-menengah.
+Invento is a web-based Inventory and Point of Sale (POS) application for small-medium stores.
 
-Aplikasi ini membantu toko mengelola produk, kategori, supplier, stok barang, transaksi penjualan, laporan bisnis, dan user berdasarkan role internal.
+This application helps stores manage products, categories, suppliers, stock items, sales transactions, business reports and users based on internal roles.
 
 ## Tech Stack
 
